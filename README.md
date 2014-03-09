@@ -1,4 +1,10 @@
 learnix
 =======
+List of sources used to learn about the wonderful world of Programming.
+There's no project acting as the red line, at least for the time being.
+Also the order of the sources below, doesn't reflect the order for learning.
 
-Learning git + web programming
+Git > Readme.md
+---------------
+Source: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
